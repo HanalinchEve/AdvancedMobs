@@ -6,7 +6,7 @@ Some mobs gained special abilities and drop richer loot and xp.
 5% of zombies and skeletons gained special abilities and equipment, and drop richer loot and xp.  
 Their special abilities will become stronger as the number of special zombies&skeletons killed by players increases and time passes.  
 
-10% of zombies will rage when their HP drops below 8❤.  
+10% of zombies rage when their HP drops below 8❤.  
 Skeletons only have 16❤.  
 ###  Enderman;Slime;Wither Skeleton:
 Give player negative effect when they combo player.  
